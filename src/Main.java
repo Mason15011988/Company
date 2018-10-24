@@ -32,7 +32,7 @@ public class Main {
         companyTransport.addTransport(new Tranker("BMW", 10, 40, 150, 2000));
 
 
-       // companyTransport.showCities();
+       companyTransport.showCities();
 
         companyTransport.raschet(la, alaska, 2, 2);
 
